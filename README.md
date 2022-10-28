@@ -17,15 +17,14 @@ void function()
   {
     printf("Veuillez saisir le point bonus :\n");
     scanf("%d", &note);
-    printf("Merci pour le point bonus !");
   } while(note<=0);
-  printf("Merci pour le point bonus !");
   
 }
 
 int main()
 {
   function();
+  printf("Merci pour le point bonus !");
   
   return 0;
 }
