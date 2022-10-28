@@ -19,6 +19,7 @@ void function()
     scanf("%d", &note);
     printf("Merci pour le point bonus !");
   } while(note<=0);
+  printf("Merci pour le point bonus !");
   
 }
 
