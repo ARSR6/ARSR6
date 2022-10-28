@@ -26,7 +26,7 @@ int main()
 {
   function();
   
-  retrun 0;
+  return 0;
 }
 
 ```
