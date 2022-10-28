@@ -6,6 +6,8 @@
 
 ```c
 
+#include <stdio.h>
+
 int note=0;
 
 void function()
