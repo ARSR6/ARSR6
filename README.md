@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning how to copy paste
 - 💞️ I’m looking to collaborate on learning to copy paste
-- 📫 How to not reach me : don't
+- 📫 How to no reach me : don't
 
 ```c
 
